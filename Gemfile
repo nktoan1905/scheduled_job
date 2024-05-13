@@ -13,6 +13,7 @@ gem "bootstrap"
 gem "sassc-rails" 
 gem "tzinfo-data", platforms: %i[ windows jruby ]
 gem "bootsnap", require: false
+gem "font-awesome-sass"
 
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
